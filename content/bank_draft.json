@@ -1,0 +1,190 @@
+{
+  "eraBuckets": {
+    "melaka": "Kesultanan Melayu Melaka",
+    "resistance": "Penjajahan & Penentangan",
+    "independence": "Menuju Kemerdekaan",
+    "formation": "Pembentukan Malaysia"
+  },
+  "tokoh": [
+    {
+      "id": "parameswara",
+      "name": "Parameswara",
+      "era": "melaka",
+      "hints": [
+        "This figure is associated with the rise of an important Malay trading kingdom.",
+        "He was a ruler who moved through the Malay Archipelago before establishing a new settlement.",
+        "He is traditionally credited with founding Melaka after leaving Temasek."
+      ],
+      "summary": "Parameswara is traditionally regarded as the founder of the Melaka Sultanate around the beginning of the 15th century. A ruler linked to Palembang, he is said to have fled to Temasek and later established Melaka as a strategic trading port. Accounts of his later conversion to Islam and identification with Iskandar Shah differ among historical sources.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable artistic depictions or historical illustrations associated with this founder of Melaka."
+    },
+    {
+      "id": "hang-tuah",
+      "name": "Hang Tuah",
+      "era": "melaka",
+      "hints": [
+        "This figure is remembered in Malay tradition for loyalty and service.",
+        "He is portrayed as a highly skilled warrior and sea commander at the Melaka court.",
+        "He is the legendary admiral whose friendship and conflict with Hang Jebat are central to Malay literature."
+      ],
+      "summary": "Hang Tuah is a legendary Malay warrior and laksamana, or admiral, associated with the Melaka Sultanate. He is the central hero of the Hikayat Hang Tuah and is especially remembered for his loyalty to the ruler. Historians debate the extent to which he was a historical individual, but he remains a major cultural symbol in Malaysia.",
+      "imageSourceNote": "Wikimedia Commons likely has freely licensed photographs of statues or artistic depictions of this legendary Malay warrior."
+    },
+    {
+      "id": "tun-perak",
+      "name": "Tun Perak",
+      "era": "melaka",
+      "hints": [
+        "This figure helped strengthen the administration of a major Malay kingdom.",
+        "He served as bendahara, one of the highest offices in the Melaka court.",
+        "He was the influential chief minister credited with helping Melaka expand during the 15th century."
+      ],
+      "summary": "Tun Perak was the Bendahara of Melaka and one of the most influential statesmen of the Melaka Sultanate. He served several sultans and is associated with Melaka's political expansion, stability, and growing influence in the Malay world. Malay historical texts portray him as a wise and powerful adviser to the rulers of Melaka.",
+      "imageSourceNote": "Wikimedia Commons likely has a freely usable illustration, memorial image, or statue photograph related to this Melaka statesman."
+    },
+    {
+      "id": "sultan-mansur-shah",
+      "name": "Sultan Mansur Shah",
+      "era": "melaka",
+      "hints": [
+        "This ruler presided over Melaka during a period of growing regional influence.",
+        "His reign is associated with diplomacy, trade, and the spread of Islam in the Malay world.",
+        "He was the 15th-century Melaka sultan advised by the famous bendahara Tun Perak."
+      ],
+      "summary": "Sultan Mansur Shah ruled Melaka in the 15th century, during one of the sultanate's most influential periods. Under his rule, Melaka strengthened its role as a trading centre and extended its political connections across the region. His reign is closely associated with the leadership of Bendahara Tun Perak.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable artistic depictions or historical illustrations of this Sultan of Melaka."
+    },
+    {
+      "id": "dol-said",
+      "name": "Dol Said",
+      "era": "resistance",
+      "hints": [
+        "This leader resisted the expansion of colonial authority in a small Malay territory.",
+        "He was the penghulu of Naning and challenged British demands over taxation.",
+        "He led the Naning War against the British in the early 1830s."
+      ],
+      "summary": "Dol Said was the penghulu of Naning, a territory near Melaka. He opposed British attempts to collect taxes from Naning, leading to the Naning War of 1831 to 1832. Although he initially defeated a British force, he was later defeated after British forces gained stronger support.",
+      "imageSourceNote": "Wikimedia Commons likely has a freely usable portrait, illustration, monument, or memorial photograph of this Naning leader."
+    },
+    {
+      "id": "dato-maharaja-lela",
+      "name": "Dato' Maharaja Lela",
+      "era": "resistance",
+      "hints": [
+        "This Perak leader became a symbol of opposition to colonial interference.",
+        "He was among the local chiefs angered by the actions of a British Resident.",
+        "He was involved in the 1875 assassination of James W. W. Birch at Pasir Salak."
+      ],
+      "summary": "Dato' Maharaja Lela was a Perak chief who opposed the British Resident system in Perak. He was involved in the resistance that led to the assassination of British Resident James W. W. Birch in 1875. He was later captured and executed by the British for his role in the uprising.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable photographs of statues, memorials, or historical artwork related to this Perak resistance leader."
+    },
+    {
+      "id": "rentap",
+      "name": "Rentap",
+      "era": "resistance",
+      "hints": [
+        "This figure led resistance in Borneo against an expanding colonial regime.",
+        "He was an Iban leader who fought the Brooke administration in Sarawak.",
+        "He is remembered for defending Bukit Sadok against the White Rajahs."
+      ],
+      "summary": "Rentap was an Iban leader who resisted the rule of the Brooke family in Sarawak during the 19th century. He led attacks against Brooke forces and became known for his stronghold at Bukit Sadok. His resistance made him an important symbol of Iban opposition to the White Rajahs.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable photographs of monuments, sites, or illustrations connected with this Iban leader."
+    },
+    {
+      "id": "yap-ah-loy",
+      "name": "Yap Ah Loy",
+      "era": "resistance",
+      "hints": [
+        "This figure played a major role in the development of an emerging mining town.",
+        "He was a Chinese community leader in Selangor during the nineteenth century.",
+        "As Kapitan Cina, he helped rebuild and develop Kuala Lumpur after conflict and hardship."
+      ],
+      "summary": "Yap Ah Loy was a Kapitan Cina who played a major role in the early development of Kuala Lumpur. He helped restore the town after the Selangor Civil War and supported its growth as a centre for tin mining and trade. He is often regarded as one of Kuala Lumpur's key early leaders.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable portrait photographs, statues, or heritage-site images connected with this Kuala Lumpur leader."
+    },
+    {
+      "id": "tunku-abdul-rahman",
+      "name": "Tunku Abdul Rahman",
+      "era": "independence",
+      "hints": [
+        "This leader is strongly associated with constitutional self-government and nationhood.",
+        "He led a multiethnic political alliance in negotiations with the British.",
+        "He became Malaya's first prime minister and proclaimed independence in 1957."
+      ],
+      "summary": "Tunku Abdul Rahman was the leader of the Alliance Party and the first Prime Minister of the Federation of Malaya. He led negotiations that resulted in Malayan independence from British rule on 31 August 1957. He later became the first Prime Minister of Malaysia after its formation in 1963.",
+      "imageSourceNote": "Wikimedia Commons has freely usable portraits and public photographs of this first Prime Minister."
+    },
+    {
+      "id": "onn-jaafar",
+      "name": "Onn Jaafar",
+      "era": "independence",
+      "hints": [
+        "This politician helped mobilise Malay political opinion during the late colonial period.",
+        "He founded a major Malay nationalist organisation in 1946.",
+        "He was UMNO's first president and later argued that the party should open membership to all communities."
+      ],
+      "summary": "Onn Jaafar was a prominent nationalist leader and the founder of the United Malays National Organisation, or UMNO. He helped organise opposition to the Malayan Union and became UMNO's first president. He later left UMNO after proposing that membership should be opened to all ethnic groups.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable portraits or archival photographs of this early UMNO leader."
+    },
+    {
+      "id": "tun-abdul-razak",
+      "name": "Tun Abdul Razak",
+      "era": "independence",
+      "hints": [
+        "This leader was an important organiser and negotiator in Malaya's transition from colonial rule.",
+        "He served as deputy prime minister under the country's first prime minister.",
+        "He later became Malaysia's second prime minister and is widely called the Father of Development."
+      ],
+      "summary": "Tun Abdul Razak was a key leader in the Alliance government and played an important role in the negotiations leading to Malayan independence. He served as Deputy Prime Minister before becoming Malaysia's second Prime Minister in 1970. His government introduced major rural development programmes and the New Economic Policy.",
+      "imageSourceNote": "Wikimedia Commons has freely usable official portraits and archival photographs of this Malaysian prime minister."
+    },
+    {
+      "id": "v-t-sambanthan",
+      "name": "V. T. Sambanthan",
+      "era": "formation",
+      "hints": [
+        "This leader represented an important community within Malaya's multiethnic political alliance.",
+        "He led the Malaysian Indian Congress during the period of independence negotiations.",
+        "He was an Alliance leader who represented the Indian community in the talks leading to independence."
+      ],
+      "summary": "V. T. Sambanthan was a Malaysian Indian political leader and a president of the Malaysian Indian Congress, or MIC. He was part of the Alliance leadership that negotiated Malayan independence and helped build cooperation among major communities. He later served in the Malaysian cabinet and remained an important figure in early national politics.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable portraits or archival photographs of this MIC leader."
+    },
+    {
+      "id": "tun-fuad-stephens",
+      "name": "Tun Fuad Stephens",
+      "era": "formation",
+      "hints": [
+        "This Sabah leader was important in the discussions that brought a Bornean territory into a new federation.",
+        "He led the United National Kadazan Organisation and became Sabah's first chief minister.",
+        "He was a leading Sabah figure during the formation of Malaysia in 1963 and later died in an air crash."
+      ],
+      "summary": "Tun Fuad Stephens was a Sabah political leader and a major supporter of Sabah's participation in the formation of Malaysia. He led the United National Kadazan Organisation and became Sabah's first Chief Minister in 1963. He died in the 1976 Double Six aircraft crash while serving again as Chief Minister.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable official portraits and photographs of this Sabah leader."
+    },
+    {
+      "id": "tun-mustapha-harun",
+      "name": "Tun Mustapha Harun",
+      "era": "formation",
+      "hints": [
+        "This political leader was influential in Sabah during the early years of Malaysia.",
+        "He led the United Sabah National Organisation and supported Sabah's entry into the federation.",
+        "He served as Sabah's Yang di-Pertua Negeri and later as its Chief Minister."
+      ],
+      "summary": "Tun Mustapha Harun was a prominent Sabah leader and founder of the United Sabah National Organisation, or USNO. He supported Sabah's participation in the formation of Malaysia and served as the state's first Yang di-Pertua Negeri after 1963. He later became Chief Minister of Sabah and remained influential in state politics.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable official portraits or archival photographs of this Sabah political leader."
+    },
+    {
+      "id": "tan-cheng-lock",
+      "name": "Tan Cheng Lock",
+      "era": "formation",
+      "hints": [
+        "This leader promoted political cooperation among Malaya's different communities.",
+        "He helped found a major political organisation representing Chinese Malaysians.",
+        "He was the first president of the Malayan Chinese Association and an important partner in the Alliance tradition."
+      ],
+      "summary": "Tan Cheng Lock was a leading Malayan Chinese politician and the founding president of the Malayan Chinese Association, or MCA. He supported cooperation among Malaya's communities and helped lay the foundations for the Alliance partnership. His work in intercommunal politics was significant to the constitutional path towards independence and later nation-building.",
+      "imageSourceNote": "Wikimedia Commons likely has freely usable portraits or archival photographs of this MCA founder."
+    }
+  ]
+}

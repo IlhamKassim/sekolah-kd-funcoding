@@ -1,0 +1,622 @@
+{
+  "eraBuckets": {
+    "melaka": "Kesultanan Melayu Melaka",
+    "resistance": "Penjajahan & Penentangan",
+    "independence": "Menuju Kemerdekaan",
+    "formation": "Pembentukan Malaysia",
+    "occupation": "Pendudukan Jepun",
+    "modern": "Malaysia Moden",
+    "culture": "Masyarakat & Budaya"
+  },
+  "tokoh": [
+    {
+      "id": "parameswara",
+      "name": "Parameswara",
+      "era": "melaka",
+      "hints": [
+        "This figure is associated with the rise of an important Malay trading kingdom.",
+        "He was a ruler who moved through the Malay Archipelago before establishing a new settlement.",
+        "He is traditionally credited with founding Melaka after leaving Temasek."
+      ],
+      "summary": "Parameswara is traditionally regarded as the founder of the Melaka Sultanate around the beginning of the 15th century. A ruler linked to Palembang, he is said to have fled to Temasek and later established Melaka as a strategic trading port. Accounts of his later conversion to Islam and identification with Iskandar Shah differ among historical sources.",
+      "image": "assets/tokoh/parameswara.jpg"
+    },
+    {
+      "id": "hang-tuah",
+      "name": "Hang Tuah",
+      "era": "melaka",
+      "hints": [
+        "This figure is remembered in Malay tradition for loyalty and service.",
+        "He is portrayed as a highly skilled warrior and sea commander at the Melaka court.",
+        "He is the legendary admiral whose friendship and conflict with Hang Jebat are central to Malay literature."
+      ],
+      "summary": "Hang Tuah is a legendary Malay warrior and laksamana, or admiral, associated with the Melaka Sultanate. He is the central hero of the Hikayat Hang Tuah and is especially remembered for his loyalty to the ruler. Historians debate the extent to which he was a historical individual, but he remains a major cultural symbol in Malaysia.",
+      "image": "assets/tokoh/hang-tuah.jpg"
+    },
+    {
+      "id": "tun-perak",
+      "name": "Tun Perak",
+      "era": "melaka",
+      "hints": [
+        "This figure helped strengthen the administration of a major Malay kingdom.",
+        "He served as bendahara of Melaka and helped expand its territory and influence under Sultan Mansur Shah.",
+        "He was the influential chief minister credited with helping Melaka expand during the 15th century."
+      ],
+      "summary": "Tun Perak was the Bendahara of Melaka and one of the most influential statesmen of the Melaka Sultanate. He served several sultans and is associated with Melaka's political expansion, stability, and growing influence in the Malay world. Malay historical texts portray him as a wise and powerful adviser to the rulers of Melaka.",
+      "image": "assets/tokoh/tun-perak.jpg"
+    },
+    {
+      "id": "sultan-mansur-shah",
+      "name": "Sultan Mansur Shah",
+      "era": "melaka",
+      "hints": [
+        "This ruler presided over Melaka during a period of growing regional influence.",
+        "His reign is associated with diplomacy, trade, and the spread of Islam in the Malay world.",
+        "He ruled Melaka from 1459 to 1477, extending its territorial influence with the help of Bendahara Tun Perak."
+      ],
+      "summary": "Sultan Mansur Shah ruled Melaka in the 15th century, during one of the sultanate's most influential periods. Under his rule, Melaka strengthened its role as a trading centre and extended its political connections across the region. His reign is closely associated with the leadership of Bendahara Tun Perak.",
+      "image": "assets/tokoh/sultan-mansur-shah.jpg"
+    },
+    {
+      "id": "dol-said",
+      "name": "Dol Said",
+      "era": "resistance",
+      "hints": [
+        "This leader resisted the expansion of colonial authority in a small Malay territory.",
+        "He was the penghulu of Naning and challenged British demands over taxation.",
+        "He led the Naning War against the British in the early 1830s."
+      ],
+      "summary": "Dol Said was the penghulu of Naning, a territory near Melaka. He opposed British attempts to collect taxes from Naning, leading to the Naning War of 1831 to 1832. Although he initially defeated a British force, he was later defeated after British forces gained stronger support.",
+      "image": "assets/tokoh/dol-said.jpg"
+    },
+    {
+      "id": "dato-maharaja-lela",
+      "name": "Dato' Maharaja Lela",
+      "era": "resistance",
+      "hints": [
+        "This Perak leader became a symbol of opposition to colonial interference.",
+        "He was a Perak chief who opposed the British Resident system introduced following the Pangkor Treaty of 1874.",
+        "He was involved in the 1875 assassination of James W. W. Birch at Pasir Salak."
+      ],
+      "summary": "Dato' Maharaja Lela was a Perak chief who opposed the British Resident system in Perak. He was involved in the resistance that led to the assassination of British Resident James W. W. Birch in 1875. He was later captured and executed by the British for his role in the uprising.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "rentap",
+      "name": "Rentap",
+      "era": "resistance",
+      "hints": [
+        "This figure led resistance in Borneo against an expanding colonial regime.",
+        "He was an Iban leader who fought the Brooke administration in Sarawak.",
+        "He is remembered for defending Bukit Sadok against the White Rajahs."
+      ],
+      "summary": "Rentap was an Iban leader who resisted the rule of the Brooke family in Sarawak during the 19th century. He led attacks against Brooke forces and became known for his stronghold at Bukit Sadok. His resistance made him an important symbol of Iban opposition to the White Rajahs.",
+      "image": "assets/tokoh/rentap.jpg"
+    },
+    {
+      "id": "yap-ah-loy",
+      "name": "Yap Ah Loy",
+      "era": "resistance",
+      "hints": [
+        "This figure played a major role in the development of an emerging mining town.",
+        "He was a Chinese community leader in Selangor during the nineteenth century.",
+        "As Kapitan Cina, he helped rebuild and develop Kuala Lumpur after conflict and hardship."
+      ],
+      "summary": "Yap Ah Loy was a Kapitan Cina who played a major role in the early development of Kuala Lumpur. He helped restore the town after the Selangor Civil War and supported its growth as a centre for tin mining and trade. He is often regarded as one of Kuala Lumpur's key early leaders.",
+      "image": "assets/tokoh/yap-ah-loy.jpg"
+    },
+    {
+      "id": "tunku-abdul-rahman",
+      "name": "Tunku Abdul Rahman",
+      "era": "independence",
+      "hints": [
+        "This leader is strongly associated with constitutional self-government and nationhood.",
+        "He led a multiethnic political alliance in negotiations with the British.",
+        "He became Malaya's first prime minister and proclaimed independence in 1957."
+      ],
+      "summary": "Tunku Abdul Rahman was the leader of the Alliance Party and the first Prime Minister of the Federation of Malaya. He led negotiations that resulted in Malayan independence from British rule on 31 August 1957. He later became the first Prime Minister of Malaysia after its formation in 1963.",
+      "image": "assets/tokoh/tunku-abdul-rahman.jpg"
+    },
+    {
+      "id": "onn-jaafar",
+      "name": "Onn Jaafar",
+      "era": "independence",
+      "hints": [
+        "This politician helped mobilise Malay political opinion during the late colonial period.",
+        "He founded a major Malay nationalist organisation in 1946.",
+        "He was UMNO's first president and later argued that the party should open membership to all communities."
+      ],
+      "summary": "Onn Jaafar was a prominent nationalist leader and the founder of the United Malays National Organisation, or UMNO. He helped organise opposition to the Malayan Union and became UMNO's first president. He later left UMNO after proposing that membership should be opened to all ethnic groups.",
+      "image": "assets/tokoh/onn-jaafar.jpg"
+    },
+    {
+      "id": "tun-abdul-razak",
+      "name": "Tun Abdul Razak",
+      "era": "independence",
+      "hints": [
+        "This leader was an important organiser and negotiator in Malaya's transition from colonial rule.",
+        "He served as deputy prime minister under the country's first prime minister.",
+        "He later became Malaysia's second prime minister and is widely called the Father of Development."
+      ],
+      "summary": "Tun Abdul Razak was a key leader in the Alliance government and played an important role in the negotiations leading to Malayan independence. He served as Deputy Prime Minister before becoming Malaysia's second Prime Minister in 1970. His government introduced major rural development programmes and the New Economic Policy.",
+      "image": "assets/tokoh/tun-abdul-razak.jpg"
+    },
+    {
+      "id": "v-t-sambanthan",
+      "name": "V. T. Sambanthan",
+      "era": "formation",
+      "hints": [
+        "This leader represented an important community within Malaya's multiethnic political alliance.",
+        "He led the Malayan Indian Congress during the period of independence negotiations.",
+        "As MIC president, he helped establish the National Land Finance Co-operative Society in 1960 so plantation workers could collectively acquire estates."
+      ],
+      "summary": "V. T. Sambanthan was a Malaysian Indian political leader and a president of the Malaysian Indian Congress, or MIC. He was part of the Alliance leadership that negotiated Malayan independence and helped build cooperation among major communities. He later served in the Malaysian cabinet and remained an important figure in early national politics.",
+      "image": "assets/tokoh/v-t-sambanthan.jpg"
+    },
+    {
+      "id": "tun-fuad-stephens",
+      "name": "Tun Fuad Stephens",
+      "era": "formation",
+      "hints": [
+        "This Sabah leader was important in the discussions that brought a Bornean territory into a new federation.",
+        "He led the United National Kadazan Organisation during discussions over Sabah's entry into Malaysia.",
+        "He became Sabah's first chief minister in 1963 and died in the Double Six aircraft crash on 6 June 1976 while serving a second term in that office."
+      ],
+      "summary": "Tun Fuad Stephens was a Sabah political leader and a major supporter of Sabah's participation in the formation of Malaysia. He led the United National Kadazan Organisation and became Sabah's first Chief Minister in 1963. He died in the 1976 Double Six aircraft crash while serving again as Chief Minister.",
+      "image": "assets/tokoh/tun-fuad-stephens.jpg"
+    },
+    {
+      "id": "tun-mustapha-harun",
+      "name": "Tun Mustapha Harun",
+      "era": "formation",
+      "hints": [
+        "This political leader was influential in Sabah during the early years of Malaysia.",
+        "He led the United Sabah National Organisation and supported Sabah's entry into the federation.",
+        "He served as Sabah's first Yang di-Pertua Negara and later as its Chief Minister."
+      ],
+      "summary": "Tun Mustapha Harun was a prominent Sabah leader and founder of the United Sabah National Organisation, or USNO. He supported Sabah's participation in the formation of Malaysia and served as the state's first Yang di-Pertua Negeri after 1963. He later became Chief Minister of Sabah and remained influential in state politics.",
+      "image": "assets/tokoh/tun-mustapha-harun.jpg"
+    },
+    {
+      "id": "tan-cheng-lock",
+      "name": "Tan Cheng Lock",
+      "era": "formation",
+      "hints": [
+        "This leader promoted political cooperation among Malaya's different communities.",
+        "He helped found the Malayan Chinese Association in 1949 to represent the Chinese community in peninsular Malaya.",
+        "He was the first president of the Malayan Chinese Association and an important partner in the Alliance tradition."
+      ],
+      "summary": "Tan Cheng Lock was a leading Malayan Chinese politician and the founding president of the Malayan Chinese Association, or MCA. He supported cooperation among Malaya's communities and helped lay the foundations for the Alliance partnership. His work in intercommunal politics was significant to the constitutional path towards independence and later nation-building.",
+      "image": "assets/tokoh/tan-cheng-lock.jpg"
+    },
+    {
+      "id": "sultan-muzaffar-shah",
+      "name": "Sultan Muzaffar Shah",
+      "era": "melaka",
+      "hints": [
+        "I ruled a Malay trading kingdom during the fifteenth century.",
+        "During my reign, Melaka resisted attacks from Siam.",
+        "I appointed Tun Perak as bendahara and was succeeded by Sultan Mansur Shah."
+      ],
+      "summary": "Sultan Muzaffar Shah ruled Melaka during the fifteenth century. His reign saw resistance to Siamese attacks and the appointment of Tun Perak as bendahara. He was succeeded by his son, Sultan Mansur Shah.",
+      "imageSourceNote": "Look on Wikimedia Commons for a Melaka-related historical illustration; label it as illustrative rather than an authenticated portrait.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "tun-mutahir",
+      "name": "Tun Mutahir",
+      "era": "melaka",
+      "hints": [
+        "I was a senior official in the administration of the Melaka Sultanate.",
+        "I was the bendahara whose downfall under Sultan Mahmud Shah ended in execution shortly before the Portuguese conquest of Melaka in 1511.",
+        "According to the Malay Annals, accusations of treason led the sultan to order my execution shortly before the Portuguese conquest."
+      ],
+      "summary": "Tun Mutahir served as bendahara during the reign of Sultan Mahmud Shah. According to the Malay Annals, accusations of treason led to his execution on the sultan's orders. His death occurred shortly before the Portuguese conquest of Melaka in 1511.",
+      "imageSourceNote": "Check Malay Wikipedia or Wikimedia Commons for a relevant historical illustration; distinguish an artistic depiction from a verified portrait.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "tok-janggut",
+      "name": "Tok Janggut",
+      "era": "resistance",
+      "hints": [
+        "I led local resistance against colonial authority in the Malay Peninsula.",
+        "My struggle involved opposition to British-backed tax administration in Kelantan.",
+        "I led the Pasir Puteh uprising in 1915, and my nickname refers to my long beard."
+      ],
+      "summary": "Tok Janggut, also known as Haji Mat Hassan bin Munas, led an uprising in Pasir Puteh, Kelantan, in 1915. Resistance centred on grievances against British-backed administration and taxation. He was killed during the suppression of the uprising and is remembered as an anti-colonial resistance figure.",
+      "imageSourceNote": "Check Wikimedia Commons or Malay Wikipedia for historical images; verify the licence and note that some photographs show his body after death.",
+      "image": "assets/tokoh/tok-janggut.jpg"
+    },
+    {
+      "id": "mat-kilau",
+      "name": "Mat Kilau",
+      "era": "resistance",
+      "hints": [
+        "I resisted the expansion of British authority in a Malay state.",
+        "I took part in the Pahang resistance during the 1890s.",
+        "I was Tok Gajah's son and fought alongside Dato' Bahaman against British intervention."
+      ],
+      "summary": "Mat Kilau was a Pahang resistance figure and the son of Tok Gajah. During the 1890s, he joined the struggle associated with Dato' Bahaman against British intervention in Pahang. He is remembered as a prominent symbol of resistance to colonial rule.",
+      "imageSourceNote": "Check Wikimedia Commons or Malay Wikipedia for photographs; verify identification and reuse rights.",
+      "image": "assets/tokoh/mat-kilau.jpg"
+    },
+    {
+      "id": "dr-burhanuddin-al-helmy",
+      "name": "Dr. Burhanuddin Al-Helmy",
+      "era": "independence",
+      "hints": [
+        "I pursued independence through nationalist organisations outside UMNO.",
+        "I led the Malay Nationalist Party, PKMM, and was associated with PUTERA–AMCJA cooperation.",
+        "After my earlier nationalist leadership, I became president of PAS in 1956."
+      ],
+      "summary": "Dr. Burhanuddin Al-Helmy was a Malay nationalist leader who served as president of Parti Kebangsaan Melayu Malaya, or PKMM. He helped lead PUTERA, which cooperated with AMCJA on alternative constitutional proposals in 1947. He became president of PAS in 1956 and remained an important voice in Malay nationalist and Islamic politics.",
+      "imageSourceNote": "Check his English or Malay Wikipedia article and Wikimedia Commons for a portrait; confirm that the file is freely licensed.",
+      "image": "assets/tokoh/dr-burhanuddin-al-helmy.jpg"
+    },
+    {
+      "id": "ahmad-boestamam",
+      "name": "Ahmad Boestamam",
+      "era": "independence",
+      "hints": [
+        "I campaigned for independence through political activism and writing.",
+        "I led Angkatan Pemuda Insaf, a radical nationalist youth organisation in the 1940s.",
+        "After leading API, I founded Parti Rakyat Malaya in 1955."
+      ],
+      "summary": "Ahmad Boestamam was a nationalist, journalist and writer who advocated independence from British rule. He led Angkatan Pemuda Insaf, or API, which was associated with the Malay Nationalist Party. In 1955, he founded Parti Rakyat Malaya and became a leading figure in left-wing politics.",
+      "imageSourceNote": "Check Wikimedia Commons or his English or Malay Wikipedia article for a portrait; verify the image licence.",
+      "image": "assets/tokoh/ahmad-boestamam.jpg"
+    },
+    {
+      "id": "ong-kee-hui",
+      "name": "Ong Kee Hui",
+      "era": "formation",
+      "hints": [
+        "I was a Sarawak political leader during debates over the state's future.",
+        "I helped establish a multiracial political party in Sarawak in 1959.",
+        "I was the founding chairman of the Sarawak United Peoples' Party, or SUPP."
+      ],
+      "summary": "Ong Kee Hui co-founded the Sarawak United Peoples' Party in 1959 and became its first chairman. He advocated self-government and played an important role in Sarawak's political debates before Malaysia was formed. SUPP initially opposed the Malaysia proposal and favoured independence for Sarawak first.",
+      "imageSourceNote": "Check Wikimedia Commons or his English Wikipedia article for a portrait or statue photograph; verify reuse rights.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "temenggong-jugah-anak-barieng",
+      "name": "Temenggong Jugah anak Barieng",
+      "era": "formation",
+      "hints": [
+        "I was an indigenous community leader involved in Sarawak's transition into Malaysia.",
+        "I was an influential Iban leader who supported the formation of the federation.",
+        "I was an Iban temenggong who signed the Malaysia Agreement in 1963 and became federal Minister for Sarawak Affairs."
+      ],
+      "summary": "Temenggong Jugah anak Barieng was an influential Iban leader who supported Sarawak's participation in Malaysia. He was among the Sarawak representatives who signed the Malaysia Agreement in London in 1963. After Malaysia was formed, he served as federal Minister for Sarawak Affairs.",
+      "imageSourceNote": "Check Wikimedia Commons or his English or Malay Wikipedia article for a portrait or memorial photograph; verify the licence.",
+      "image": "assets/tokoh/temenggong-jugah-anak-barieng.jpg"
+    },
+    {
+      "id": "ibrahim-yaacob",
+      "name": "Ibrahim Yaacob",
+      "era": "occupation",
+      "hints": [
+        "I was a Malay nationalist whose political activities spanned British rule and the Japanese occupation.",
+        "I cooperated with Japan in the hope of ending British rule and supported political union with Indonesia.",
+        "I was the founding president of Kesatuan Melayu Muda and was involved in KRIS near the end of the war."
+      ],
+      "summary": "Ibrahim Yaacob was a founder and the first president of Kesatuan Melayu Muda, or KMM, established in 1938. He cooperated with Japan in the hope of ending British rule, but Japanese occupation did not deliver the independence he sought. Near the end of the war, he was involved in KRIS, which pursued independence for Malaya in association with Indonesia.",
+      "imageSourceNote": "Check his English or Malay Wikipedia article and Wikimedia Commons for historical photographs; confirm free-use status.",
+      "image": "assets/tokoh/ibrahim-yaacob.jpg"
+    },
+    {
+      "id": "chin-peng",
+      "name": "Chin Peng",
+      "era": "occupation",
+      "hints": [
+        "I took part in guerrilla resistance against the Japanese occupation of Malaya.",
+        "I worked with British Force 136 during the anti-Japanese struggle, before later fighting British colonial rule.",
+        "I became secretary-general of the Malayan Communist Party in 1947 and signed the Hat Yai peace agreement in 1989."
+      ],
+      "summary": "Chin Peng took part in the Malayan People's Anti-Japanese Army's resistance to Japanese occupation. He became secretary-general of the Malayan Communist Party in 1947 and later led communist insurgencies against British colonial rule and the Malaysian government. He was one of the communist signatories to the 1989 Hat Yai peace agreement.",
+      "imageSourceNote": "Check Wikimedia Commons for historical photographs; confirm the licence and date of any portrait selected.",
+      "image": "assets/tokoh/chin-peng.jpg"
+    },
+    {
+      "id": "lai-teck",
+      "name": "Lai Teck",
+      "era": "occupation",
+      "hints": [
+        "I led a political organisation involved in resistance during the Japanese occupation.",
+        "I headed the Malayan Communist Party during most of the occupation, but accounts also describe secret cooperation with its enemies.",
+        "I preceded Chin Peng as party secretary-general and disappeared in 1947 amid accusations of betrayal."
+      ],
+      "summary": "Lai Teck was secretary-general of the Malayan Communist Party from 1939 to 1947. Historical accounts generally describe him as an informer for colonial intelligence services and, during the occupation, Japanese security authorities. His betrayal is widely linked to the Japanese attack on a communist leadership meeting at Batu Caves in 1942, although aspects of his identity and espionage remain uncertain.",
+      "imageSourceNote": "Check his English Wikipedia article for a historical portrait and its source; a freely licensed image may be difficult to find.",
+      "image": "assets/tokoh/lai-teck.jpg"
+    },
+    {
+      "id": "mustapha-hussain",
+      "name": "Mustapha Hussain",
+      "era": "occupation",
+      "hints": [
+        "I was a Malay nationalist active before and during the Japanese occupation.",
+        "I belonged to Kesatuan Melayu Muda and sought Japanese backing for Malay independence.",
+        "I was KMM's founding vice-president, serving alongside its president, Ibrahim Yaacob."
+      ],
+      "summary": "Mustapha Hussain was a Malay nationalist and a founding vice-president of Kesatuan Melayu Muda. During Japan's conquest of Malaya, he sought Japanese support for Malay independence, but that aim was not realised. His memoir is an important account of pre-war Malay nationalism and the occupation period.",
+      "imageSourceNote": "Check Malay or English Wikipedia for a portrait and source details; verify that any available photograph permits reuse.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "tan-kah-kee",
+      "name": "Tan Kah Kee",
+      "era": "occupation",
+      "hints": [
+        "I was a businessman and community leader involved in opposition to Japanese aggression.",
+        "Based in Singapore, I helped organise overseas Chinese fundraising to support China's resistance to Japan.",
+        "I founded Xiamen University and took refuge in Java during the Japanese occupation."
+      ],
+      "summary": "Tan Kah Kee was a Singapore-based businessman, philanthropist and educational benefactor who founded Xiamen University. Before Singapore fell, he helped organise major overseas Chinese fundraising efforts for China's resistance to Japan. He took refuge in Java during the Japanese occupation, making his wartime role regional rather than that of a Malayan guerrilla leader.",
+      "imageSourceNote": "Wikimedia Commons likely has historical portraits and photographs of his memorials; check each file's licence.",
+      "image": "assets/tokoh/tan-kah-kee.jpg"
+    },
+    {
+      "id": "tun-hussein-onn",
+      "name": "Tun Hussein Onn",
+      "era": "modern",
+      "hints": [
+        "I led Malaysia's federal government after independence.",
+        "My leadership is especially associated with national unity and cooperation among communities.",
+        "I was Malaysia's third prime minister, serving from 1976 to 1981, and am remembered as the Father of Unity."
+      ],
+      "summary": "Tun Hussein Onn served as Malaysia's third prime minister from 1976 to 1981. His leadership emphasised national unity, social harmony and careful administration. He is commonly honoured as Bapa Perpaduan, or Father of Unity.",
+      "imageSourceNote": "Check Wikimedia Commons for historical portraits or public-event photographs; verify the licence.",
+      "image": "assets/tokoh/tun-hussein-onn.jpg"
+    },
+    {
+      "id": "tun-dr-mahathir-mohamad",
+      "name": "Tun Dr. Mahathir Mohamad",
+      "era": "modern",
+      "hints": [
+        "I was a Malaysian prime minister associated with major economic and industrial change.",
+        "I introduced Vision 2020 and promoted Malaysia's development into an industrialised nation.",
+        "I served as both Malaysia's fourth and seventh prime minister."
+      ],
+      "summary": "Tun Dr. Mahathir Mohamad served as Malaysia's fourth prime minister from 1981 to 2003 and seventh prime minister from 2018 to 2020. His first premiership was associated with industrialisation, major infrastructure projects and the Look East Policy. In 1991, he introduced Vision 2020 as a long-term national development goal.",
+      "imageSourceNote": "Wikimedia Commons has freely licensed photographs from public appearances; check the attribution requirements.",
+      "image": "assets/tokoh/tun-dr-mahathir-mohamad.jpg"
+    },
+    {
+      "id": "tun-ismail-abdul-rahman",
+      "name": "Tun Ismail Abdul Rahman",
+      "era": "modern",
+      "hints": [
+        "I was a senior Malaysian leader concerned with security and national stability.",
+        "A doctor by training, I returned to government after the May 1969 riots.",
+        "I was Malaysia's second deputy prime minister, serving from 1970 until my death in 1973."
+      ],
+      "summary": "Tun Ismail Abdul Rahman was a physician, senior minister and Malaysia's second deputy prime minister. He returned to government after the May 1969 riots and helped efforts to restore stability and public confidence. He served as deputy prime minister from 1970 until his death in office in 1973.",
+      "imageSourceNote": "Check Wikimedia Commons or his English or Malay Wikipedia article for historical portraits; verify reuse rights.",
+      "image": "assets/tokoh/tun-ismail-abdul-rahman.jpg"
+    },
+    {
+      "id": "tun-abdullah-ahmad-badawi",
+      "name": "Tun Abdullah Ahmad Badawi",
+      "era": "modern",
+      "hints": [
+        "I led Malaysia's federal government in the early twenty-first century.",
+        "My administration promoted Islam Hadhari and the development of human capital.",
+        "I was Malaysia's fifth prime minister from 2003 to 2009 and was widely known as Pak Lah."
+      ],
+      "summary": "Tun Abdullah Ahmad Badawi served as Malaysia's fifth prime minister from 2003 to 2009. His administration emphasised integrity, human capital development and Islam Hadhari, an approach linking Islamic principles with civilisation and development. He was widely known by the affectionate nickname Pak Lah.",
+      "imageSourceNote": "Check Wikimedia Commons for freely licensed photographs from official visits and public events.",
+      "image": "assets/tokoh/tun-abdullah-ahmad-badawi.jpg"
+    },
+    {
+      "id": "tun-ghafar-baba",
+      "name": "Tun Ghafar Baba",
+      "era": "modern",
+      "hints": [
+        "I rose through state and national politics to become a senior federal leader.",
+        "A former teacher, I served as chief minister of Malacca before becoming deputy prime minister.",
+        "I was Malaysia's deputy prime minister from 1986 to 1993 under Tun Dr. Mahathir Mohamad."
+      ],
+      "summary": "Tun Ghafar Baba was a former teacher who became a prominent UMNO and national leader. He served as chief minister of Malacca from 1959 to 1967. From 1986 to 1993, he was Malaysia's deputy prime minister under Tun Dr. Mahathir Mohamad.",
+      "imageSourceNote": "Check Wikimedia Commons or his English or Malay Wikipedia article for portraits or memorial photographs; verify the licence.",
+      "image": "assets/tokoh/tun-ghafar-baba.jpg"
+    },
+    {
+      "id": "hang-jebat",
+      "name": "Hang Jebat",
+      "era": "melaka",
+      "hints": [
+        "This figure is remembered in a famous Malay court legend from the Melaka Sultanate.",
+        "He rebelled after believing that a close companion had been punished unjustly by the ruler.",
+        "In the best-known version of the story, he was killed in a duel by Hang Tuah."
+      ],
+      "summary": "Hang Jebat is a legendary Melakan warrior best known through the Hikayat Hang Tuah and later retellings; other versions of the Malay Annals tradition name a different companion in this role, so the story's exact details vary across sources. He is traditionally portrayed as Hang Tuah's close friend who rebelled against the Sultan after Hang Tuah was believed to have been executed unjustly. The story is often discussed as a conflict between loyalty to the ruler and resistance to injustice, although its details belong largely to literary tradition rather than securely verifiable history.",
+      "imageSourceNote": "A free illustration or portrait-style image may be available on Malay Wikipedia or Wikimedia Commons.",
+      "image": "assets/tokoh/hang-jebat.jpg"
+    },
+    {
+      "id": "tun-ali",
+      "name": "Tun Ali",
+      "era": "melaka",
+      "hints": [
+        "This figure was a senior official in the administration of the Melaka Sultanate.",
+        "He served as an earlier Bendahara of Melaka, in the period before the more famous Tun Perak held that role.",
+        "He was the father of the later Bendahara, Tun Mutahir."
+      ],
+      "summary": "Tun Ali was a Bendahara, or chief minister, of Melaka during the reign of Sultan Muzaffar Shah. He was an important member of the Melakan court and is generally identified in Malay historical tradition as the father of Tun Mutahir, who later also became Bendahara. Accounts of court relationships in this period mainly come from traditional Malay sources and may differ in detail between retellings.",
+      "imageSourceNote": "Malay Wikipedia may have a historical illustration or related Melaka court image; Wikimedia Commons searches may be limited.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "sultan-alauddin-riayat-shah-i",
+      "name": "Sultan Alauddin Riayat Shah I",
+      "era": "melaka",
+      "hints": [
+        "This ruler governed Melaka during the later period of its growth as a major trading kingdom.",
+        "He succeeded Sultan Mansur Shah in the late fifteenth century.",
+        "Malay tradition says he went out at night in disguise to inspect and curb crime in Melaka."
+      ],
+      "summary": "Sultan Alauddin Riayat Shah I ruled Melaka from about 1477 to 1488, succeeding his father, Sultan Mansur Shah. He is remembered in the Sejarah Melayu as a ruler concerned with public order, especially through the famous account that he patrolled Melaka at night in disguise. This episode is a traditional narrative, but it reflects the ideal of a ruler who took responsibility for the safety of his people.",
+      "imageSourceNote": "Malay Wikipedia or Wikimedia Commons may provide a royal illustration or a Melaka Sultanate-related image.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "abdul-rahman-limbong",
+      "name": "Abdul Rahman Limbong",
+      "era": "resistance",
+      "hints": [
+        "This figure was a religious teacher who became associated with resistance to colonial policies.",
+        "He opposed British land regulations in Terengganu during the 1920s.",
+        "After the 1928 uprising, he was exiled to Mecca."
+      ],
+      "summary": "Haji Abdul Rahman Limbong was an ulama and community leader who opposed British land laws in Terengganu. He supported local farmers who believed that the regulations restricted their customary rights to work and open land. Following the 1928 resistance movement, he was arrested and exiled to Mecca, where he later died.",
+      "imageSourceNote": "A free photograph or commemorative image is likely available on Malay Wikipedia and may also appear on Wikimedia Commons.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "syarif-masahor",
+      "name": "Syarif Masahor",
+      "era": "resistance",
+      "hints": [
+        "This leader resisted the expansion of foreign rule in nineteenth-century Borneo.",
+        "He was a Malay leader from the Rajang region who opposed the Brooke administration in Sarawak.",
+        "He was exiled to Singapore after the conflict linked to the Kanowit incident."
+      ],
+      "summary": "Syarif Masahor was a Malay leader in Sarawak who opposed the Brooke Raj's extension of control into the Rajang region. The Brooke authorities connected him with resistance that included the 1859 Kanowit incident, although accounts of his precise role have differed. After his defeat, he was exiled to Singapore, though accounts vary on where he spent his later years.",
+      "imageSourceNote": "Malay Wikipedia or Wikimedia Commons may have a historical portrait or an image related to Sarawak resistance.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "zainal-abidin-ahmad-zaba",
+      "name": "Zainal Abidin Ahmad (Za'ba)",
+      "era": "independence",
+      "hints": [
+        "This figure contributed to Malay intellectual development during the colonial period.",
+        "He worked with the Pejabat Karang Mengarang at Sultan Idris Training College.",
+        "He is widely remembered for influential works on modern Malay grammar, including Pelita Bahasa Melayu."
+      ],
+      "summary": "Zainal Abidin Ahmad, better known as Za'ba, was a prominent Malay scholar, writer, teacher and language reformer. Through his work at Sultan Idris Training College and his writings, he helped modernise the teaching and study of the Malay language. His grammar books, especially the Pelita Bahasa Melayu series, had a lasting influence on Malay education and writing.",
+      "imageSourceNote": "A free portrait is likely available on English or Malay Wikipedia, with possible copies on Wikimedia Commons.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "abdul-aziz-ishak",
+      "name": "Abdul Aziz Ishak",
+      "era": "independence",
+      "hints": [
+        "This figure was involved in journalism, Malay nationalism and post-war politics.",
+        "He served as Minister of Agriculture and Co-operatives in Tunku Abdul Rahman's early government.",
+        "He later founded the National Convention Party after leaving the Alliance government."
+      ],
+      "summary": "Abdul Aziz Ishak was a journalist and nationalist who became Minister of Agriculture and Co-operatives in the early federal government led by Tunku Abdul Rahman. He later left the Alliance and founded the National Convention Party, reflecting his disagreements with government policies. He was detained under the Internal Security Act during the 1960s and remained associated with opposition politics and social reform.",
+      "imageSourceNote": "English or Malay Wikipedia may have a free historical photograph; Wikimedia Commons may also contain one.",
+      "image": "assets/tokoh/abdul-aziz-ishak.jpg"
+    },
+    {
+      "id": "tun-abang-haji-openg",
+      "name": "Tun Abang Haji Openg",
+      "era": "formation",
+      "hints": [
+        "This Sarawak leader played a role in the state's transition into Malaysia.",
+        "He became Sarawak's first Yang di-Pertua Negeri when Malaysia was formed in 1963.",
+        "He served as the first constitutional head of state of Sarawak until his death in 1969."
+      ],
+      "summary": "Tun Abang Haji Openg was a Sarawak leader and the first Yang di-Pertua Negeri, or Governor, of Sarawak. He assumed the office when Sarawak joined the Federation of Malaysia in 1963. His position represented the constitutional headship of the state during the early years of Malaysia.",
+      "imageSourceNote": "A free portrait is likely available on English or Malay Wikipedia and may be reproduced on Wikimedia Commons.",
+      "image": "assets/tokoh/tun-abang-haji-openg.jpg"
+    },
+    {
+      "id": "peter-mojuntin",
+      "name": "Peter Mojuntin",
+      "era": "formation",
+      "hints": [
+        "This figure was a prominent Kadazan leader in Sabah.",
+        "He served as a Sabah state cabinet minister for local government and housing under the BERJAYA state government, rather than leading it.",
+        "A lawyer by training, he was still serving as a state minister when he died in the 1976 Double Six aircraft crash."
+      ],
+      "summary": "Peter Mojuntin was a Kadazan political leader in Sabah who advocated for the interests of indigenous communities. He was associated with the United Pasokmomogun Kadazan Organisation (UPKO) and later served in the Sabah government under BERJAYA. He died in the 1976 Double Six tragedy, an aircraft crash that also killed several other Sabah political leaders.",
+      "imageSourceNote": "A free photograph is likely available on English or Malay Wikipedia; Wikimedia Commons may also have a related memorial image.",
+      "image": "assets/tokoh/peter-mojuntin.jpg"
+    },
+    {
+      "id": "sybil-kathigasu",
+      "name": "Sybil Kathigasu",
+      "era": "occupation",
+      "hints": [
+        "This figure showed courage while living under the Japanese occupation of Malaya.",
+        "She was a nurse who secretly assisted anti-Japanese guerrillas in Perak.",
+        "She was tortured by the Japanese and later received the George Medal for her bravery."
+      ],
+      "summary": "Sybil Kathigasu was a nurse and midwife who secretly provided medical aid, supplies and information to anti-Japanese resistance fighters during the Japanese occupation. She and her husband were arrested by the Japanese military police, and she was severely tortured but did not reveal information about the resistance. After the war, she received the George Medal in recognition of her courage and later wrote an account titled No Dram of Mercy.",
+      "imageSourceNote": "A free historical photograph is likely available on English or Malay Wikipedia, with possible copies on Wikimedia Commons.",
+      "image": "assets/tokoh/sybil-kathigasu.jpg"
+    },
+    {
+      "id": "rashid-maidin",
+      "name": "Rashid Maidin",
+      "era": "occupation",
+      "hints": [
+        "This figure was involved in anti-Japanese resistance during the Second World War.",
+        "He became one of the best-known Malay members of the Malayan Communist Party.",
+        "Unlike some senior MCP leaders who remained barred from Malaysia, he was permitted to return and resettle there after the 1989 peace accord."
+      ],
+      "summary": "Rashid Maidin was a Malay communist activist who joined the Malayan Communist Party before the Second World War. During the Japanese occupation, he was involved in resistance activities connected with the Malayan People's Anti-Japanese Army. He remained associated with the Communist Party of Malaya after the war and later lived in southern Thailand following the end of the communist insurgency.",
+      "imageSourceNote": "English or Malay Wikipedia may have a free historical photograph; Wikimedia Commons availability may be limited.",
+      "image": "assets/tokoh/rashid-maidin.jpg"
+    },
+    {
+      "id": "musa-hitam",
+      "name": "Musa Hitam",
+      "era": "modern",
+      "hints": [
+        "This figure was a senior Malaysian political leader in the 1980s.",
+        "He served as Home Affairs Minister during the early years of Mahathir Mohamad's administration.",
+        "He was Deputy Prime Minister from 1981 until his resignation in 1986."
+      ],
+      "summary": "Musa Hitam was a senior UMNO leader who served as Malaysia's Deputy Prime Minister from 1981 to 1986 under Tun Dr. Mahathir Mohamad. He also held the Home Affairs portfolio during this period. His resignation as Deputy Prime Minister in 1986 was a major event in Malaysian political history.",
+      "imageSourceNote": "A free portrait is likely available on English or Malay Wikipedia and may also be found on Wikimedia Commons.",
+      "image": "assets/tokoh/placeholder.svg"
+    },
+    {
+      "id": "tan-sri-mohamed-ghazali-shafie",
+      "name": "Tan Sri Mohamed Ghazali Shafie",
+      "era": "modern",
+      "hints": [
+        "This figure helped shape Malaysia's Cold War-era regional security doctrine before later becoming a cabinet minister.",
+        "He played an important role in foreign affairs and later served as Foreign Minister.",
+        "He was widely known by the nickname \"King Ghaz\"."
+      ],
+      "summary": "Tan Sri Mohamed Ghazali Shafie was a prominent Malaysian civil servant, diplomat and cabinet minister. He held important responsibilities in foreign affairs and served as Minister of Foreign Affairs from 1981 to 1984. Known as \"King Ghaz,\" he was influential in Malaysian administration and diplomacy during the early decades after independence.",
+      "imageSourceNote": "A free historical portrait is likely available on English or Malay Wikipedia, with possible copies on Wikimedia Commons.",
+      "image": "assets/tokoh/tan-sri-mohamed-ghazali-shafie.jpg"
+    },
+    {
+      "id": "munshi-abdullah",
+      "name": "Munshi Abdullah",
+      "era": "culture",
+      "hints": [
+        "This figure was an important writer during the early nineteenth-century Malay world.",
+        "He wrote an influential autobiographical work titled Hikayat Abdullah.",
+        "His title, \"Munshi,\" means teacher, and he is often regarded as a pioneer of modern Malay literature."
+      ],
+      "summary": "Munshi Abdullah, whose full name was Abdullah bin Abdul Kadir, was a writer, teacher, translator and language specialist in the early nineteenth century. His Hikayat Abdullah is notable for its personal and observational style, which differed from many earlier forms of classical Malay literature. He is commonly regarded as an important pioneer of modern Malay writing.",
+      "imageSourceNote": "A free portrait or manuscript-related image is likely available on English or Malay Wikipedia and Wikimedia Commons.",
+      "image": "assets/tokoh/munshi-abdullah.jpg"
+    },
+    {
+      "id": "tun-sri-lanang",
+      "name": "Tun Sri Lanang",
+      "era": "culture",
+      "hints": [
+        "This figure was a high-ranking official in the Johor Sultanate during the early seventeenth century.",
+        "He is traditionally credited with compiling or editing the Sejarah Melayu in 1612.",
+        "He held the title Bendahara Paduka Raja and is closely associated with the Malay Annals."
+      ],
+      "summary": "Tun Sri Lanang was a Bendahara of Johor who is traditionally credited as the compiler or editor of the Sejarah Melayu, also known as the Malay Annals. The work is one of the most important sources for Malay court history, genealogy and political ideals. Modern scholarship generally treats the text as the product of a longer literary tradition, so Tun Sri Lanang is often described as its compiler or redactor rather than necessarily its sole author.",
+      "imageSourceNote": "Malay Wikipedia may have a historical illustration or manuscript-related image; Wikimedia Commons may also contain images of the Sejarah Melayu.",
+      "image": "assets/tokoh/placeholder.svg"
+    }
+  ]
+}

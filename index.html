@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0820">
+  <meta name="description" content="Guess the Malaysian historical figure from 3 hints. Score points, build your streak.">
+  <meta property="og:title" content="Tokoh Tekaan">
+  <meta property="og:description" content="Guess the Malaysian historical figure from 3 hints. Score points, build your streak.">
+  <meta property="og:type" content="website">
+  <title>Tokoh Tekaan</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' shape-rendering='crispEdges'%3E%3Crect width='32' height='32' fill='%230b0820'/%3E%3Cpath d='M4 2h24v2H4zM2 4h2v24H2zM28 4h2v24h-2zM4 28h24v2H4z' fill='%2339e7ff'/%3E%3Cpath d='M10 6h12v4H10zM6 10h4v4H6zM22 10h4v8h-4zM18 18h4v4h-4zM14 22h4v4h-4z' fill='%23ffd34d'/%3E%3Cpath d='M14 18h4v4h-4z' fill='%23d94dff'/%3E%3C/svg%3E">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="app" class="app-shell">
+    <section class="panel loading-panel">
+      <h1 class="game-title">Tokoh Tekaan</h1>
+      <p class="status-message">Loading tokoh bank...</p>
+      <noscript>
+        <p class="status-message">Please enable JavaScript to play Tokoh Tekaan.</p>
+      </noscript>
+    </section>
+  </main>
+  <p id="app-status" class="sr-only" role="status" aria-atomic="true"></p>
+
+  <script src="game.js" defer></script>
+</body>
+</html>

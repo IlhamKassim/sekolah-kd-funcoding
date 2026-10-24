@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320" role="img" aria-label="Mystery figure placeholder silhouette">
+  <defs>
+    <radialGradient id="mystery-aura" cx="50%" cy="42%" r="68%">
+      <stop offset="0%" stop-color="#d94dff" stop-opacity=".28"/>
+      <stop offset="58%" stop-color="#39e7ff" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#0b0820" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="mystery-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" width="1" height="8" patternUnits="userSpaceOnUse">
+      <rect width="1" height="3" fill="#39e7ff" opacity=".09"/>
+    </pattern>
+  </defs>
+
+  <rect width="320" height="320" rx="12" fill="#0b0820"/>
+  <rect x="12" y="12" width="296" height="296" rx="8" fill="url(#mystery-aura)" stroke="#39e7ff" stroke-width="3" filter="url(#mystery-glow)"/>
+  <rect x="24" y="24" width="272" height="272" rx="4" fill="url(#scanlines)"/>
+
+  <path d="M40 72h24V48h24V32h144v16h24v24h24M40 248h24v24h24v16h144v-16h24v-24h24"
+        fill="none" stroke="#ffd34d" stroke-width="4" opacity=".8"/>
+
+  <circle cx="160" cy="114" r="43" fill="#120d2b" stroke="#d94dff" stroke-width="5" filter="url(#mystery-glow)"/>
+  <path d="M82 260c3-57 34-85 78-85s75 28 78 85Z"
+        fill="#120d2b" stroke="#39e7ff" stroke-width="5" filter="url(#mystery-glow)"/>
+  <path d="M104 252c8-38 26-57 56-57s48 19 56 57"
+        fill="none" stroke="#d94dff" stroke-width="3" opacity=".8"/>
+
+  <path d="M151 91h18v42h-18zM151 147h18v14h-18z"
+        fill="#ffd34d" filter="url(#mystery-glow)"/>
+  <rect x="72" y="276" width="176" height="4" fill="#ffd34d" opacity=".75"/>
+</svg>
